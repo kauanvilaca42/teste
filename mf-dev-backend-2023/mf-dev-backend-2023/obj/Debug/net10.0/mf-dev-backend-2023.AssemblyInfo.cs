@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mf-dev-backend-2023")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+057dc36020eb037a4bd3e4f1fa2fc4eb69b17e27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+939df40ef6a2cfeff936390b45ebe714e5ef306e")]
 [assembly: System.Reflection.AssemblyProductAttribute("mf-dev-backend-2023")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mf-dev-backend-2023")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
